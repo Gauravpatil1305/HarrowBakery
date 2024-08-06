@@ -674,7 +674,7 @@ const HOME = () => {
             className="rounded-7xl bg-sandybrown flex flex-row items-center justify-center py-2.5 px-[26px] gap-[15px] cursor-pointer"
             onClick={onSocialmediaContainerClick}
           >
-            <b className="relative capitalize">Logine</b>
+            <b className="relative capitalize">Login</b>
             <img
               className="w-6 relative rounded-3xs h-6 overflow-hidden shrink-0 hidden"
               alt=""
@@ -1001,7 +1001,7 @@ const HOME = () => {
             className="rounded-7xl bg-sandybrown flex flex-row items-center justify-center py-2.5 px-[26px] gap-[15px] cursor-pointer"
             onClick={onSocialmediaContainerClick}
           >
-            <b className="relative capitalize">Logine</b>
+            <b className="relative capitalize">Login</b>
             <img
               className="w-6 relative rounded-3xs h-6 overflow-hidden shrink-0 hidden"
               alt=""
